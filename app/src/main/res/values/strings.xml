@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hibernate</string>
+
+    <string name="sleep_mode_title">Lock Service</string>
+    <string name="lock_service_text">With this feature you can lock your device by putting it on a flat surface.\n
+        Also you can specify an angle which is the angle between your device and flat surface.</string>
+
+    <string name="alarm_service_title">Alarm Service</string>
+
+
+    <string name="shake_service_title">Shake Service</string>
+</resources>
